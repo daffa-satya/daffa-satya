@@ -2,6 +2,10 @@
 C/C++ ❤️ <br>
 GNU/LINUX ❤️
 
+## Project tidak di akun ini
+https://calc-ketidakpastian.github.io/
+
+
 <!--
 **daffa-satya/daffa-satya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
