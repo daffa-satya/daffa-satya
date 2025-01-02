@@ -1,4 +1,7 @@
-## Hi there 👋
+# Berusaha tajir
+--------------------------------------
+# C/C++ ❤️
+# GNU/LINUX ❤️
 
 <!--
 **daffa-satya/daffa-satya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
